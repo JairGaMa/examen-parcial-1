@@ -42,3 +42,22 @@ Para compilar y ejecutar el código correctamente, es necesario instalar las sig
 3. Se leen y muestran los valores en el monitor serie.
 4. Los datos se envían a **ThingSpeak** cada cierto tiempo.
 5. Si la temperatura supera los **27°C** o la humedad los **60%**, el buzzer se activa como alerta.
+
+## Evidencias del Proyecto
+A continuación, se presentan algunas evidencias del desarrollo del proyecto:
+
+### 📷 Imágenes
+- 📌 **Circuito utilizado**:  
+  ![Circuito](circuito.jpeg)
+- 📌 **Diagrama de conexión**:  
+  ![Diagrama de Conexión](diagramaConexion.jpeg)
+- 📌 **Evidencia en la plataforma**:  
+  ![Evidencia en la Página](evidenciaEnLaPagina.jpeg)
+
+### 📄 Archivos de Código y Explicación
+- 🔹 **Código del proyecto**: [`codigo.ino`](codigo.ino)
+- 🔹 **Explicación del funcionamiento**: [`explicacion.txt`](explicacion.txt)
+
+### 🎥 Videos de Funcionamiento
+- 🎬 [Video 1](video1.mp4)
+- 🎬 [Video 2](video2.mp4)
